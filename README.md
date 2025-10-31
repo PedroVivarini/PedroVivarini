@@ -11,17 +11,21 @@ Estou gostando muito da área e pretendo ingressar profissionalmente nela em bre
 
 ## 🌐 Tecnologias mais usadas
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PedroVivarini&show_icons=true&theme=darcula&hide_title=true" width="500"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVivarini&langs_count=6&layout=compact&theme=darcula&hide_title=true" width="500"/>
-    </td>
-  </tr>
-</table>
 
+  <div align="center">
+  <a href="https://github.com/PedroVivarini">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=PedroVivarini&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" 
+      alt="Pedro Vivarini GitHub Stats"
+    />
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVivarini&layout=compact&langs_count=8&theme=radical&hide_border=true" 
+      alt="Pedro Vivarini Top Languages"
+    />
+  </a>
+</div>
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
