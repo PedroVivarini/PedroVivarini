@@ -11,7 +11,16 @@ Estou gostando muito da área e pretendo ingressar profissionalmente nela em bre
 
 ## 🌐 Tecnologias mais usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVivarini&langs_count=10&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=PedroVivarini&show_icons=true&theme=darcula&hide_title=true" width="500"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVivarini&langs_count=6&layout=compact&theme=darcula&hide_title=true" width="500"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -25,12 +34,6 @@ Estou gostando muito da área e pretendo ingressar profissionalmente nela em bre
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
-
----
-
-## 📈 Estatísticas do GitHub
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVivarini&show_icons=true&theme=darcula)
 
 ---
 
