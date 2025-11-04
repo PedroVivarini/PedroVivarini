@@ -30,8 +30,6 @@ Estou gostando muito da área e pretendo ingressar profissionalmente nela em bre
 
 ## 🛠️ Tecnologias e Ferramentas
 
-## 🛠️ Tecnologias e Ferramentas
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="60" height="60"/>
