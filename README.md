@@ -1,15 +1,15 @@
-# Olá, eu sou Pedro Vivarini! 👋
+# Olá, eu sou Pedro Vivarini! 
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-Me chamo **Pedro Vivarini**, mas pode me chamar de **Vivarini** mesmo 😄  
+Me chamo **Pedro Vivarini**, mas pode me chamar de **Vivarini**.   
 Ingressei no mundo da tecnologia há pouco tempo e sigo estudando diariamente.  
 Atualmente estou me formando em **Gestão da Tecnologia** e também cursando a **residência do Serratec**.  
-Estou gostando muito da área e pretendo ingressar profissionalmente nela em breve! 🚀
+Estou gostando muito da área e pretendo ingressar profissionalmente nela em breve! 
 
 ---
 
-## 🌐 Tecnologias mais usadas
+## Tecnologias mais usadas
 
 
   <div align="center">
@@ -28,7 +28,7 @@ Estou gostando muito da área e pretendo ingressar profissionalmente nela em bre
 </div>
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
@@ -44,7 +44,7 @@ Estou gostando muito da área e pretendo ingressar profissionalmente nela em bre
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="mailto:pedrohenriquevivarini@gmail.com">
